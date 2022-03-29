@@ -15,7 +15,9 @@ INSTALLED_APPS = [
     'corsheaders',
 ]
 
-LOCAL_APPS = []
+LOCAL_APPS = [
+    'apps.new',
+]
 
 INSTALLED_APPS += LOCAL_APPS
 

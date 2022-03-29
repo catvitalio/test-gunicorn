@@ -21,6 +21,7 @@ django-hash-static = {git = "https://github.com/SibdevPro/django-hash-static.git
 django-cors-headers = "3.7.0"
 djangorestframework = "3.12.4"
 djangorestframework-simplejwt = "4.6.0"
+openpyxl = "^3.0.9"
 
 [tool.poetry.dev-dependencies]
 django-debug-toolbar = "3.2"
